@@ -1,0 +1,63 @@
+.LoginRegisterForms input,
+.LoginRegisterForms select{
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: none;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+.LoginRegisterForms input[type= 'file']{
+    border: none;
+}
+.LoginRegisterForms button{
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background: green;
+    color: white;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+.LoginRegisterForms a{
+    text-decoration: none;
+}
+.LoginRegisterForms h1{
+    color: darkcyan;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+}
+.LoginRegisterForms img{
+    width: 60px;
+    display: block;
+    margin: auto;
+    border-radius: 100%;
+}
+
+.FormInputs{
+  display: flex;
+  justify-content: flex-end;
+}
+.LoginRegisterForms{
+  width: 50%;
+  margin: 50px auto;
+}
+.links a{
+  color: rgb(99, 99, 99);
+}
+.div-new{
+  border: 1px solid rgb(211, 211, 211);
+  border-radius: 10px;
+  margin: 10px 0;
+}
+.LoginContainer button:first-child{
+  padding: 10px 30px;
+  margin-bottom: 5px;
+  border: none;
+  border: 1px solid rgb(73, 73, 73);
+  background: transparent;
+  border-radius: 20px;
+  color: black;
+}

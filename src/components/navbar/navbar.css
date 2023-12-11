@@ -1,0 +1,46 @@
+.navbar{
+  height: 50px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+
+}
+
+.navContainer{
+  width: 100%;
+  max-width: 1024px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo{
+  font-weight: 100;
+  color: black;
+}
+
+.navSign{
+  background: black;
+  border-radius: 20px;
+  padding: 5px 10px;
+  color: white;
+  cursor: pointer;
+  margin-left: 20px;
+}
+
+.navLog{
+    background: #008000;
+    border-radius: 20px;
+    padding: 5px 10px;
+    color: white;
+    cursor: pointer;
+    margin-left: 20px;
+
+}
+
+
+.mukLogo{
+  height: 48;
+  width: 63;
+}
