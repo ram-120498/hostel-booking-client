@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.241d9644.css",
+    "main.js": "/static/js/main.970406ee.js",
+    "static/media/Makerere-Logo-Mak-100-Light LOGO.png": "/static/media/Makerere-Logo-Mak-100-Light LOGO.9628fecdb2fcedd35e22.png",
+    "index.html": "/index.html",
+    "static/media/icon.svg": "/static/media/icon.bce249be8b852fb8ed403bf00581e1bc.svg",
+    "main.241d9644.css.map": "/static/css/main.241d9644.css.map",
+    "main.970406ee.js.map": "/static/js/main.970406ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.241d9644.css",
+    "static/js/main.970406ee.js"
+  ]
+}
