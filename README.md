@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Contributions
+
+### `KIWUWA AUGUSTINE	2100704965`
+
+### `MUGUME ANDREW ROLAND	1800722878`
+
+### `PAMELL KABASINGUZI	707004626`
+
+### `LUTAAYA ISAAC RAY	2000703548`
+
 ## Available Scripts
 
 In the project directory, you can run:
